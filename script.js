@@ -16,3 +16,14 @@ $ (document) .ready(function(){
   
   
   });
+
+
+  $ (document) .ready(function(){
+    $("#shown").click(function(){
+      $("#put").toggle();
+    
+    
+    })
+    
+    
+    });

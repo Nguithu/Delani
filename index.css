@@ -24,6 +24,9 @@ body{
   text-align: center;
   line-height: 30px;
 }
+#put{
+  font-size: 1em;
+}
 
 .middle{
   position: relative;

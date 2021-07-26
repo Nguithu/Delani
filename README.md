@@ -5,3 +5,21 @@ When you work with us you are a team of commited collaborators. all aspects of o
 ## Author
 
 Francis Nguithu
+
+## Features
+
+As a user of this website you'll be required to:
+
+to message us so as to get to know about your fill of the website
+
+## Technologies Used
+
+HTML - For building the user interface
+
+CSS - Styling
+
+Javascript - For document object manipulation
+
+## License.
+
+MIT Copyright (c) 2021 MITlicense
